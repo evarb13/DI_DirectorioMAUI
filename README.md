@@ -51,7 +51,7 @@ Esto permite:
 
 Reemplaza esta imagen por una captura real de la aplicación funcionando:
 
-![DirectorioMAUI Screenshot](assets/DirectorioMAUI.png)
+![DirectorioMAUI Screenshot](DirectorioMAUI.png)
 
 # Autor
 evarb13
