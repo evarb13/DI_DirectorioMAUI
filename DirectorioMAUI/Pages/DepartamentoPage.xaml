@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DirectorioMAUI.Pages.DepartamentoPage">
+    <Grid RowDefinitions="Auto, *">
+        <Label Grid.Row="0" Text="{Binding Departments}" FontSize="24" FontAttributes="Bold" Margin="20,10" />
+
+        <CollectionView Grid.Row="1" ItemsSource="{Binding Departamentos}"
+                SelectionMode="Single"
+                SelectionChanged="OnDepartamentoSelected">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="0,5" Padding="10" BackgroundColor="White" BorderColor="#EEEEEE" HasShadow="True" CornerRadius="10">
+                        <Grid ColumnDefinitions="*, Auto" ColumnSpacing="15">
+                            <VerticalStackLayout Grid.Column="0" VerticalOptions="Center" Spacing="2">
+                                <HorizontalStackLayout Spacing="5">
+                                    <Label Text="{Binding Nombre}" FontAttributes="Bold" FontSize="16" TextColor="Black" />
+                                </HorizontalStackLayout>
+                                <Label Text="{Binding Id}" FontSize="13" TextColor="#666666" />
+                            </VerticalStackLayout>
+
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+            <CollectionView.EmptyView>
+                <Label Text="No se encontraron empleados." HorizontalOptions="Center" VerticalOptions="Center" />
+            </CollectionView.EmptyView>
+        </CollectionView>
+    </Grid>
+</ContentPage>

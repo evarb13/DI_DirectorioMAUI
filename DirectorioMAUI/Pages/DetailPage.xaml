@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:properties="clr-namespace:DirectorioMAUI.Properties"
+             x:Class="DirectorioMAUI.Pages.DetailPage">
+    <ScrollView>
+    <VerticalStackLayout Padding="30" Spacing="20">
+
+        <Frame x:Name="FrameImagen"
+               CornerRadius="75"
+               WidthRequest="150"
+               HeightRequest="150"
+               Padding="0"
+               HasShadow="True"
+               HorizontalOptions="Center"
+               BackgroundColor="#E0E0E0"
+               IsClippedToBounds="True">
+            <Image Source="{Binding ImagenCompleta}" 
+                   Aspect="AspectFill"/>
+        </Frame>
+
+
+
+            <HorizontalStackLayout Spacing="5" HorizontalOptions="Center">
+                <Label Text="{Binding Nombre}" FontAttributes="Bold" FontSize="28" TextColor="Black" />
+                <Label Text="{Binding Apellido}" FontAttributes="Bold" FontSize="28" TextColor="Black" />
+            </HorizontalStackLayout>
+
+        <Frame Padding="15" CornerRadius="10" HasShadow="True">
+            <Label Text="{Binding Id, StringFormat='ID: {0}'}" FontSize="16" TextColor="Black" />
+        </Frame>
+
+            <Frame x:Name="FramePuesto" 
+                Padding="15" CornerRadius="10" BackgroundColor="White" HasShadow="True">
+                <Label FontSize="16" TextColor="Black">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="{x:Static properties:Resources.Puesto}" />
+                            <Span Text=": " />
+                            <Span Text="{Binding Puesto}" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </Frame>
+
+            <Frame x:Name="FrameDepartamento" 
+                Padding="15" CornerRadius="10" BackgroundColor="White" HasShadow="True">
+                <Label FontSize="16" TextColor="Black">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="{x:Static properties:Resources.Departamento}" />
+                            <Span Text=": " />
+                            <Span Text="{Binding DepartamentoId}" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </Frame>
+        </VerticalStackLayout>
+</ScrollView>
+</ContentPage>

@@ -1,0 +1,42 @@
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="DirectorioMAUI.Pages.AboutPage">
+    <ScrollView>
+        <VerticalStackLayout Padding="25" Spacing="20">
+            <Label Text="{Binding Title}"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <Label Text="{Binding Texto}"
+                   FontSize="16"
+                   HorizontalTextAlignment="Center" />
+
+            <Frame Padding="15" CornerRadius="15" BackgroundColor="#F2F2F2">
+                <VerticalStackLayout Spacing="8">
+
+                    <Label Text="{Binding Develop}"
+                           FontAttributes="Bold"
+                           FontSize="18" />
+
+                    <Label Text="Eva Rodríguez Barrera" />
+
+                </VerticalStackLayout>
+            </Frame>
+
+            <Frame Padding="15" CornerRadius="15" BackgroundColor="#E8F4FF">
+                <VerticalStackLayout Spacing="5">
+
+                    <Label Text="{Binding Version}"
+                           FontAttributes="Bold"
+                           FontSize="18" />
+
+                    <Label Text="1.0.0" />
+
+                </VerticalStackLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

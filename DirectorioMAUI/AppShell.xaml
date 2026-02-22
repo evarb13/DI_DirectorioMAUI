@@ -1,0 +1,37 @@
+<Shell x:Class="DirectorioMAUI.AppShell" 
+       xmlns="http://schemas.microsoft.com/dotnet/2021/maui" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+       xmlns:pages="clr-namespace:DirectorioMAUI.Pages"
+       xmlns:properties="clr-namespace:DirectorioMAUI.Properties"
+       Title="DirectorioMAUI">
+
+    <TabBar>
+        <Tab Title="{x:Static properties:Resources.Menu}" Route="menu">
+
+            <ShellContent
+                Title="{x:Static properties:Resources.Menu}"
+                ContentTemplate="{DataTemplate pages:MainPage}"
+                Route="main" />
+
+            <ShellContent
+                Title="{x:Static properties:Resources.About}"
+                ContentTemplate="{DataTemplate pages:AboutPage}"
+                Route="about" />
+
+        </Tab>
+
+        <ShellContent Title="{x:Static properties:Resources.Departamentos}" 
+                      ContentTemplate="{DataTemplate pages:DepartamentoPage}" 
+                      Route="departamento" />
+
+        <ShellContent Title="{x:Static properties:Resources.Empleados}" 
+                      ContentTemplate="{DataTemplate pages:EmpleadoPage}" 
+                      Route="empleado" />
+
+        <ShellContent Title="{x:Static properties:Resources.Ajustes}" 
+                      ContentTemplate="{DataTemplate pages:SettingsPage}" 
+                      Route="settings"/>
+    </TabBar>
+
+</Shell>
+

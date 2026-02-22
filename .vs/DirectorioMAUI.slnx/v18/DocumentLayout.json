@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pagesmodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pagesmodels\\mainpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\services\\departamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\services\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\services\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\departamentopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\departamentopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pagesmodels\\aboutpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pagesmodels\\aboutpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pagesmodels\\departamentopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pagesmodels\\departamentopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pagesmodels\\detailpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pagesmodels\\detailpagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\empleadopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\empleadopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pagesmodels\\empleadopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pagesmodels\\empleadopagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|c:\\users\\evaro\\2\u00BAdam\\desarrollo_interfaces\\directoriomaui\\directoriomaui\\pagesmodels\\settingspagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2D4800-E886-AEC9-7EE4-BBD207690B34}|DirectorioMAUI\\DirectorioMAUI.csproj|solutionrelative:directoriomaui\\pagesmodels\\settingspagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:14:14.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Models\\Empleado.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:06:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Models\\Departamento.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:04:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRestService.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Services\\IRestService.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Services\\IRestService.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Services\\IRestService.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Services\\IRestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:55:05.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\DepartamentoPage.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\DepartamentoPage.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\DepartamentoPage.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\DepartamentoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T12:13:48.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\MainPageModel.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\PagesModels\\MainPageModel.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\MainPageModel.cs",
+              "RelativeToolTip": "DirectorioMAUI\\PagesModels\\MainPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:55:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Services\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Services\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Services\\DepartamentoService.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Services\\DepartamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:13:34.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\EmpleadoPage.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\EmpleadoPage.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\EmpleadoPage.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\EmpleadoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T11:55:26.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Properties\\Resources.resx",
+              "RelativeToolTip": "DirectorioMAUI\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-15T11:52:41.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartamentoPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\DepartamentoPageModel.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\PagesModels\\DepartamentoPageModel.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\DepartamentoPageModel.cs",
+              "RelativeToolTip": "DirectorioMAUI\\PagesModels\\DepartamentoPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:14:43.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\AboutPage.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T12:17:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\AboutPageModel.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\PagesModels\\AboutPageModel.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\AboutPageModel.cs",
+              "RelativeToolTip": "DirectorioMAUI\\PagesModels\\AboutPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:23:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\AboutPage.xaml.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:32:04.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\DetailPageModel.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\PagesModels\\DetailPageModel.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\DetailPageModel.cs",
+              "RelativeToolTip": "DirectorioMAUI\\PagesModels\\DetailPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:24:13.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "DirectorioMAUI\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:31:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\DetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\DetailPage.xaml.cs",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\DetailPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T12:00:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\SettingsPage.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\SettingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T11:45:45.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\AppShell.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T11:47:58.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpleadoPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\EmpleadoPageModel.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\PagesModels\\EmpleadoPageModel.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\EmpleadoPageModel.cs",
+              "RelativeToolTip": "DirectorioMAUI\\PagesModels\\EmpleadoPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:55:45.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\DetailPage.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\DetailPage.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\DetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T11:45:49.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "DirectorioMAUI\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T11:45:53.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SettingsPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\SettingsPageModel.cs",
+              "RelativeDocumentMoniker": "DirectorioMAUI\\PagesModels\\SettingsPageModel.cs",
+              "ToolTip": "C:\\Users\\evaro\\2\u00BADAM\\Desarrollo_Interfaces\\DirectorioMAUI\\DirectorioMAUI\\PagesModels\\SettingsPageModel.cs",
+              "RelativeToolTip": "DirectorioMAUI\\PagesModels\\SettingsPageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:32:53.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
